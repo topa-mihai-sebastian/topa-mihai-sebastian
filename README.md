@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=130&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:6B3A2A&height=130&section=header)
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&width=500&lines=Hi%2C+I'm+Sebi+%F0%9F%91%8B;CS+student+%40+UNSTPB;Incoming+SDE+Intern+%40+Amazon;OS+%7C+Networks+%7C+HPC+%7C+Arch" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C4956A&center=true&width=500&lines=Hi%2C+I'm+Sebi+%F0%9F%91%8B;CS+student+%40+UNSTPB;Incoming+SDE+Intern+%40+Amazon;OS+%7C+Networks+%7C+HPC+%7C+Computer+Arch" />
 
 I'm into low-level systems — operating systems, computer architecture, networking, distributed systems, and HPC.
 
@@ -12,4 +12,4 @@ I'm into low-level systems — operating systems, computer architecture, network
 <img src="https://raw.githubusercontent.com/topa-mihai-sebastian/topa-mihai-sebastian/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6B3A2A,100:0d1117&height=100&section=footer)
