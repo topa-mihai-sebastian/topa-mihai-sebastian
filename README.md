@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=C4956A&center=true&width=500&lines=Hi%2C+I'm+Sebi+%F0%9F%91%8B;CS+student+%40+UNSTPB;OS+%7C+Networks+%7C+HPC+%7C+Computer+Arch" />
 
-I'm into low-level systems — operating systems, computer architecture, networking, distributed systems, and HPC.
+I'm passionate about low-level systems, operating systems, computer architecture, networking, distributed systems, and HPC.
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
